@@ -4,16 +4,16 @@
 	"sources": [
 		"main.scss",
 		"_sass/styles.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_variables.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_mixins.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_global.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_navbar.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_masthead.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_post.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_contact.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_footer.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_bootstrap-overrides.scss"
+		"assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss",
+		"assets/vendor/startbootstrap-clean-blog/scss/_variables.scss",
+		"assets/vendor/startbootstrap-clean-blog/scss/_mixins.scss",
+		"assets/vendor/startbootstrap-clean-blog/scss/_global.scss",
+		"assets/vendor/startbootstrap-clean-blog/scss/_navbar.scss",
+		"assets/vendor/startbootstrap-clean-blog/scss/_masthead.scss",
+		"assets/vendor/startbootstrap-clean-blog/scss/_post.scss",
+		"assets/vendor/startbootstrap-clean-blog/scss/_contact.scss",
+		"assets/vendor/startbootstrap-clean-blog/scss/_footer.scss",
+		"assets/vendor/startbootstrap-clean-blog/scss/_bootstrap-overrides.scss"
 	],
 	"sourcesContent": [
 		"@import \"styles\";\n",
