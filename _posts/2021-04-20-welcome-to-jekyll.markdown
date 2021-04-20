@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Jekyll"
+title:  "Test Post (Yeah, I use Jekyll)"
 date:   2021-04-20 15:58:02 +0530
 categories: jekyll update
 permalink: /blog-test/
 ---
+
+Like, Share and Subscribe Jekyll for making our lives easier.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
