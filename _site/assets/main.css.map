@@ -3,7 +3,7 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/_sass/styles.scss",
+		"_sass/styles.scss",
 		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss",
 		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_variables.scss",
 		"../../../../gems/gems/jekyll-theme-clean-blog-4.0.10/assets/vendor/startbootstrap-clean-blog/scss/_mixins.scss",
