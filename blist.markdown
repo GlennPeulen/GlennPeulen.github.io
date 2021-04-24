@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default2
 title: Bucket List
 permalink: /bucket-list
 background: '/assets/img/bucket-list.jpeg'
