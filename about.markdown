@@ -20,3 +20,6 @@ background: '/assets/img/bucket-list.jpeg'
 - Deadlift 130 kgs
 - Run a marathon an 1 hr
 - Run 12 marathons in a year
+
+## Books
+- Read 50 books in a year
