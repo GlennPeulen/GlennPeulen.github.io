@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bucket List
-permalink: /bucket-list
+permalink: /about
 background: '/assets/img/bucket-list.jpeg'
 ---
 
