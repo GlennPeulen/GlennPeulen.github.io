@@ -8,6 +8,7 @@ background: '/assets/img/bucket-list.jpeg'
 ## Career and Passion
 - Complete IIT degree (lame goal, I know)
 - Get a Doctoral Degree
+- Get h-index of 10 before 28
 
 ## Finances
 
