@@ -14,6 +14,10 @@ background: '/assets/img/bucket-list.jpeg'
 ## Finances
 
 ## Travel
+- Travel to 3 european countries or Basel ;-).
+- ~Travel to the free continent.~
+- Travel to Mahabs on a cycle
+- Travel to 
 
 ## Fitness
 - Get 6 packs
@@ -21,5 +25,7 @@ background: '/assets/img/bucket-list.jpeg'
 - Run a marathon an 1 hr
 - Run 12 marathons in a year
 
-## Books
+## Books, Movies, Series, and Anime
 - Read 50 books in a year
+- Watch the new movie of Yuri! on Ice (whenever it is released). 
+
