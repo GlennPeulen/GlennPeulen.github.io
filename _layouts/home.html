@@ -30,7 +30,7 @@ layout: default
         {{ content }}
 
         <!-- Home Post List -->
-        {% for post in site.posts limit : 2 %}
+        {% for post in site.posts limit : 4 %}
         {% if site.subject == post.subject} 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -52,6 +52,8 @@ layout: default
           </p>
         </article>
 
+        <hr>
+        {% else %}
         <hr>
         {% endif %}
         {% endfor %}
