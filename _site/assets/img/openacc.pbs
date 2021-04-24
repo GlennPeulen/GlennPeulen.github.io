@@ -1,0 +1,23 @@
+#!/bin/bash
+#PBS -e errorfile.err
+#PBS -o logfile.log
+#PBS -l walltime=01:00:00
+#PBS -l select=1:ngpus=1
+#PBS -q gpuq
+tpdir=`echo $PBS_JOBID | cut -f 1 -d .`
+tempdir=$HOME/scratch/job$tpdir
+mkdir -p $tempdir
+cd $tempdir
+rm output
+
+module load nvhpc-compiler
+/sware/hpc_sdk/Linux_x86_64/2020/compilers/bin/pgcc -acc -Minfo=accel $PBS_O_WORKDIR/hello.c >>output 2>>output
+
+export PGI_ACC_TIME=0
+./a.out >>output 2>>output
+
+rm a.out
+mv ../job$tpdir $PBS_O_WORKDIR/.
+
+#Check file output in your job folder.
+

@@ -30,8 +30,8 @@ layout: default
         {{ content }}
 
         <!-- Home Post List -->
-        {% for post in site.posts limit : 2 %}
-
+        {% for post in site.posts limit : 1000 %}
+        {% if post.subject == "post" %}
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <h2 class="post-title">{{ post.title }}</h2>
@@ -54,6 +54,7 @@ layout: default
 
         <hr>
 
+        {% endif %}
         {% endfor %}
 
         <!-- Pager -->

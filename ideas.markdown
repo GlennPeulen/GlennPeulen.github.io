@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-idea
 title:  "Welcome to my Idea Cloud"
 permalink: /ideas
 subject: idea

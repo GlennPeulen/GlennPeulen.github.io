@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-post
 title:  "Welcome to my posts page"
 permalink: /posts
 subject: post
