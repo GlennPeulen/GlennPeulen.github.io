@@ -6,7 +6,7 @@ categories: Productivity
 permalink: /scheduling-101/
 ---
 # Scheduling for Dummies (well, not really)
-![image](assets/img/scheduling-minimalist-oversheduler.png)
+![image](/assets/img/scheduling-minimalist-oversheduler.png)
 
 Other existing productivity methods: 
 - David Allen's Getting things done
