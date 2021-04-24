@@ -12,6 +12,8 @@ background: '/assets/img/bucket-list.jpeg'
 - Get h-index of 10 before 27
 
 ## Finances
+- #Become financially independent#
+- Collect 1 Million Dollars, give it away and start from scratch 
 
 ## Travel
 - Travel to 3 european countries or Basel ;-).
@@ -21,7 +23,7 @@ background: '/assets/img/bucket-list.jpeg'
 - A trip to Japan
 
 ## Fitness
-- Get 6 packs
+- Get bigger muscled arms
 - Deadlift 130 kgs
 - Run a marathon an 1 hr
 - Run 12 marathons in a year
