@@ -17,7 +17,8 @@ background: '/assets/img/bucket-list.jpeg'
 - Travel to 3 european countries or Basel ;-).
 - ~Travel to the free continent.~
 - Travel to Mahabs on a cycle
-- Travel to 
+- A trip to a South American country. Preferably Argentina.
+- A trip to Japan
 
 ## Fitness
 - Get 6 packs
