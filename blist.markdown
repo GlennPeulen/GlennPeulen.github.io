@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Bucket List
 permalink: /bucket-list
 background: '/assets/img/bucket-list.jpeg'
 ---
@@ -19,4 +19,3 @@ background: '/assets/img/bucket-list.jpeg'
 - Run a marathon in 1 hr
 - Run 12 marathons in a year
   - He
-  
