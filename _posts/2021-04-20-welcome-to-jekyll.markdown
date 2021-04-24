@@ -4,7 +4,7 @@ title:  "Test Post (Yeah, I use Jekyll)"
 date:   2021-04-20 15:58:02 +0530
 categories: jekyll update
 author: Rem Nector
-permalink: /blog-test/
+permalink: /posts/blog-test/
 ---
 
 Like, Share and Subscribe Jekyll for making our lives easier.

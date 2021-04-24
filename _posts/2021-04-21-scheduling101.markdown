@@ -3,7 +3,7 @@ layout: post
 title:  "Scheduling Tips and Tricks - And what I learnt from these jugglery"
 date:   2021-04-24 1:58:02 +0530
 categories: Productivity
-permalink: /scheduling-101/
+permalink: /posts/scheduling-101/
 author: Rem Nector
 background: /assets/img/scheduling-bg.jpeg
 ---
