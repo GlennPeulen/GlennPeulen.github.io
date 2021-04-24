@@ -8,7 +8,8 @@ background: '/assets/img/bucket-list.jpeg'
 ## Career and Passion
 - Complete IIT degree (lame goal, I know)
 - Get a Doctoral Degree
-- Get h-index of 10 before 28
+- Build your own package
+- Get h-index of 10 before 27
 
 ## Finances
 
@@ -17,6 +18,8 @@ background: '/assets/img/bucket-list.jpeg'
 ## Fitness
 - Get 6 packs
 - Deadlift 130 kgs
-- Run a marathon in 1 hr
+- Run a marathon an 1 hr
 - Run 12 marathons in a year
-  - He
+
+## Books
+- Read 50 books in a year
