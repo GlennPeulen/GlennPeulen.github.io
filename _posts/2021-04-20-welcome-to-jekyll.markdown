@@ -3,6 +3,7 @@ layout: post
 title:  "Test Post (Yeah, I use Jekyll)"
 date:   2021-04-20 15:58:02 +0530
 categories: jekyll update
+author: Rem Nector
 permalink: /blog-test/
 ---
 

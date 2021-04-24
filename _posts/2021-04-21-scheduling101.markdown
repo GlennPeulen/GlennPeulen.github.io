@@ -4,6 +4,7 @@ title:  "Scheduling Tips and Tricks - And what I learnt from these jugglery"
 date:   2021-04-24 1:58:02 +0530
 categories: Productivity
 permalink: /scheduling-101/
+author: Rem Nector
 background: /assets/img/scheduling-bg.jpeg
 ---
 # Scheduling for Dummies
@@ -32,5 +33,6 @@ Solution: Follow a daily Schedule template
 5. Follow your flow of tasks and energy.
 6. Perform Regular Calender audits and check out your past data.
 
-Now, let us elaborate on each point individually.
+#### Starting your day with the most important work
+The main idea is to set your own work rather than triggers, emotional distractions and stress govern your day. Avoid looking at Email, twitter, whatsapp, etc. to avoid these triggers.
 
