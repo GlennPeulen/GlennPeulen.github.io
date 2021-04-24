@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
-permalink: /about
-background: '/assets/img/blog.jpg'
+title: Bucket List
+permalink: /bucket-list
+background: '/assets/img/bucket-list.jpeg'
 ---
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Career and Passion
+- Complete IIT degree (lame goal, I know)
+- Get a Doctoral Degree
+- Get h-index of 10 before 28
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Finances
 
+## Travel
 
-[jekyll-organization]: https://github.com/jekyll
+## Fitness
+- Get 6 packs
+- Deadlift 130 kgs
+- Run a marathon in 1 hr
+- Run 12 marathons in a year
+  - He
