@@ -31,7 +31,7 @@ layout: default
 
         <!-- Home Post List -->
         {% for post in site.posts limit : 2 %}
-
+        {% if site.subject == post.subject} 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <h2 class="post-title">{{ post.title }}</h2>
@@ -51,7 +51,7 @@ layout: default
             {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
           </p>
         </article>
-
+        {% endif %}
         <hr>
 
         {% endfor %}
