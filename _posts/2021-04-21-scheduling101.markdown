@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Scheduling Tips and Tricks - And what I learnt from these jugglery"
+date:   2021-04-24 1:58:02 +0530
+categories: Productivity
+permalink: /scheduling-101/
+---
+# Scheduling for Dummies (well, not really)
+![image](assets/img/scheduling-minimalist-oversheduler.png)
+
+## Objectives
+
+- Knowing what you are meant to be doing and when
+- Create a sense of purpose, meaning and focus in your life
+- Systemically ensure that you avoid procastination, stay motivated and manage your time well
+
+## Method
+Solution: Follow a daily Schedule template
+
+### Breif Overview of the method
+1. Start your day with the most important work.
+2. Map out your perfect daily schedule according to your personal productivity curve.
+3. Use time blocking to switch from being reactive to be in control of your time.
+4. Set availability to minimum.
+5. Follow your flow of tasks and energy.
+6. Perform Regular Calender audits and check out your past data.
