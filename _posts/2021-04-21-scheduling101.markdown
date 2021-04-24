@@ -6,7 +6,7 @@ categories: Productivity
 permalink: /scheduling-101/
 background: /assets/img/scheduling-bg.jpeg
 ---
-# Scheduling for Dummies (well, not really)
+# Scheduling for Dummies
 ![image](/assets/img/scheduling-minimalist-oversheduler.png)
 
 Other existing productivity methods: 
