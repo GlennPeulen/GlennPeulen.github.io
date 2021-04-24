@@ -3,6 +3,7 @@ layout: post
 title:  "COVID rant"
 date:   2021-04-19 16:12:02 +0530
 categories: COVIDtales
+subject: post
 permalink: /posts/blog1/
 author: Agonized aunty
 ---

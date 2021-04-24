@@ -5,6 +5,7 @@ date:   2021-04-24 1:58:02 +0530
 categories: Productivity
 permalink: /posts/scheduling-101/
 author: Rem Nector
+subject: post
 background: /assets/img/scheduling-bg.jpeg
 ---
 # Scheduling for Dummies
