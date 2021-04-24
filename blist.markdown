@@ -17,16 +17,16 @@ background: '/assets/img/bucket-list.jpeg'
 
 ## Travel
 - Travel to 3 european countries or Basel ;-).
-- ~Travel to the free continent.~
+- ~~Travel to the free continent (the Americas)~~
 - Travel to Mahabs on a cycle
 - A trip to a South American country. Preferably Argentina.
 - A trip to Japan
 
 ## Fitness
-- Get bigger muscled arms
-- Deadlift 130 kgs
-- Run a marathon an 1 hr
-- Run 12 marathons in a year
+> Get bigger muscled arms
+> Deadlift 130 kgs
+> Run a marathon an 1 hr
+> Run 12 marathons in a year
 
 ## Books, Movies, Series, and Anime
 - Read 50 books in a year
