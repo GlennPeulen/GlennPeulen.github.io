@@ -8,6 +8,12 @@ permalink: /scheduling-101/
 # Scheduling for Dummies (well, not really)
 ![image](assets/img/scheduling-minimalist-oversheduler.png)
 
+Other existing productivity methods: 
+- David Allen's Getting things done
+- Productivity tools
+- Power of Checklist - Checklist Manifesto (Dr. Arjun Gawande)
+- 
+
 ## Objectives
 
 - Knowing what you are meant to be doing and when
@@ -24,3 +30,6 @@ Solution: Follow a daily Schedule template
 4. Set availability to minimum.
 5. Follow your flow of tasks and energy.
 6. Perform Regular Calender audits and check out your past data.
+
+Now, let us elaborate on each point individually.
+
