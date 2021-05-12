@@ -2,7 +2,7 @@
 layout: post
 title:  "Personal Finance - PF101"
 date:   2021-05-12 12:00:00 +0530
-categories: Productivity
+categories: Personal finance
 permalink: /posts/PF101/
 author: Rem Nector
 subject: post
