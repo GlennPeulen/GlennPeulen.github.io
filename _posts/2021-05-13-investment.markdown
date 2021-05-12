@@ -9,7 +9,8 @@ subject: post
 background: /assets/img/scheduling-bg.jpeg
 ---
 
-#Personal Finance 101 Notes
+
+# Personal Finance 101 Notes
 - Active Income: You get the money for spending your time.
 - Passive Income: You get the money for lending your savings for a period of time.
 
