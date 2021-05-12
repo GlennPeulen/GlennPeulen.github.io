@@ -14,7 +14,7 @@ Active Income: You get the money for spending your time.
 Passive Income: You get the money for lending your savings for a period of time.
 
 ## Key Equation
-Income - Investments - Savings = Expenses
+Income (100%) - Investments(30-40%) - Savings(20-30%) = Expenses(30-50%)
 
 ## Assets and Liabilities
 - Keep your liabilities as low as possible
