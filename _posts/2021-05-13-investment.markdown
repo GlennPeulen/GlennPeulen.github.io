@@ -9,9 +9,9 @@ subject: post
 background: /assets/img/scheduling-bg.jpeg
 ---
 
-## Tips and tricks
-Active Income: You get the money for spending your time.
-Passive Income: You get the money for lending your savings for a period of time.
+#Personal Finance 101 Notes
+- Active Income: You get the money for spending your time.
+- Passive Income: You get the money for lending your savings for a period of time.
 
 ## Key Equation
 Income (100%) - Investments(30-40%) - Savings(20-30%) = Expenses(30-50%)
@@ -21,9 +21,9 @@ Income (100%) - Investments(30-40%) - Savings(20-30%) = Expenses(30-50%)
 - Keep your assets as high as possible
 
 ### Assets
-- Real Estate \t high value \t low risk
-- Gold \t high value \t high risk
-- Digital Gold \t high value \t high risk
+- Real Estate - high value - low risk
+- Gold - high value - high risk
+- Digital Gold - high value - high risk
 - On-paper Assets
 
 ### On-paper Assets
