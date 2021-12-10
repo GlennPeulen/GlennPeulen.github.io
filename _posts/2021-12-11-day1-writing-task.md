@@ -19,6 +19,6 @@ On the academic front, I am learning IML. I covered linear models and will proba
 I am thinking of including the latex plugin here too. I can bang out equations here and save it handy. I can even use this website as my personal notes storage space for free! No one really care if the website is listed. Anyways, most of the website out there are thrash. It would be an online treasure for me, with almost complete annonymity. Now I see why Prof. bhondoo created his anonymous blog.
 
 
-$\bar{x} = \frac{\sum(x_i)}{n}$
+$$\bar{x} = \frac{\sum(x_i)}{n}$$
 
 If by mistake, you happen to read this blog, do email and let me know! I would love to know my dedicated fan club. Till then, stick around and never stop learning!

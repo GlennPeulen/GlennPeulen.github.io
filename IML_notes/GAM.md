@@ -6,4 +6,5 @@ author: Rem Nector
 subject: post
 ---
 
-$g(E_y (y|x)) = \beta_0 + f_1(x_1) + f_2(x_2) + ... + f_p(x_p)$
+$$g(E_y (y|x)) = \beta_0 + f_1(x_1) + f_2(x_2) + ... + f_p(x_p)$$
+
