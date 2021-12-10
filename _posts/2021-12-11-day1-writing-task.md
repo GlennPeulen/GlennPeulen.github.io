@@ -7,3 +7,7 @@ author: Rem Nector
 subject: post
 ---
 Today is my first day of writing. I will write atleast a 100 words for the next 100 days. I am sure I will be able to achieve this goal. A major aim of this exercise is to get into a habbit of writing and potentially improve it further, while also have fun and just churn out some interesting pieces. In this way, I also get an opportunity to document some snapshots of my life.
+
+Today, Koala messaged me asking if I got an email from GT's program. Initially, I went in a defensive mode, asserting the fact the both of us are applying to different programs. She said that the program committee wants to have an "informal chat" with her. Following this, her replies included justifications for her actions and that she was only planning to prepare for the interviews. My response later was kind. I congratulated and wished her goodluck for whatever followed. I also messaged chu and tried justifying my actions. He felt too important and I acted like a fuckin simp. I should have taken a stand. Maybe its fine, I am just being kind to people. KN proposed that we meet at the citadel on nine tails adding to the ten teeth. Most of the replies were negative. Lets see what follows. 
+
+On the academic front, I am learning IML. I convered linear models and will probably be done with decision trees. I think I feel a bit more confident after looking at GAM. Maybe I can model the gene expression data and make some interesting clean methods for single-cell. Woah, I am thinking everything in the light of single-cell datasets lol.
