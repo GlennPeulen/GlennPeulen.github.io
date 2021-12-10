@@ -14,6 +14,8 @@ Today, Koala messaged me asking if I got an email from GT's program. Initially, 
 
 On the academic front, I am learning IML. I covered linear models and will probably be done with decision trees. I think I feel a bit more confident after looking at GAM. Maybe I can model the gene expression data and make some interesting clean methods for single-cell. Woah, I am thinking everything in the light of single-cell datasets lol. Okay, I need to stay away from social media lingo. 
 
+> `One man's thrash is other man's treasure`
+
 I am thinking of including the latex plugin here too. I can bang out equations here and save it handy. I can even use this website as my personal notes storage space for free! No one really care if the website is listed. Anyways, most of the website out there are thrash. It would be an online treasure for me, with almost complete annonymity. Now I see why bhondoo created his anonymous blog.
 
-> `One man's thrash is other man's treasure`
+If by mistake, you happen to read this blog, do email and let me know! I would love to know my dedicated fan club. Till then, stick around and never stop learning!
