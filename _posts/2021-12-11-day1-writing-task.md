@@ -16,7 +16,7 @@ On the academic front, I am learning IML. I covered linear models and will proba
 
 > `One man's thrash is other man's treasure`
 
-I am thinking of including the latex plugin here too. I can bang out equations here and save it handy. I can even use this website as my personal notes storage space for free! No one really care if the website is listed. Anyways, most of the website out there are thrash. It would be an online treasure for me, with almost complete annonymity. Now I see why bhondoo created his anonymous blog.
+I am thinking of including the latex plugin here too. I can bang out equations here and save it handy. I can even use this website as my personal notes storage space for free! No one really care if the website is listed. Anyways, most of the website out there are thrash. It would be an online treasure for me, with almost complete annonymity. Now I see why Prof. bhondoo created his anonymous blog.
 
 
 $\bar{x} = \frac{\sum(x_i)}{n}$
