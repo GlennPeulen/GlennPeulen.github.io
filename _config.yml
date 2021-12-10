@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rem's Blog
+author: Rem Nector
 email: remnector@gmail.com
 description: "This website is under construction." # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
