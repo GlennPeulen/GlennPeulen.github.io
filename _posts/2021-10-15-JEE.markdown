@@ -12,7 +12,7 @@ subject: post
 
 As the JEE season has come to an end, we IITians are flooded with messages from friends and family from people seeking advice. Most of the content of the advice is quite similar and therefore, I was advised to write a blog to put out all the general content a person would need to navigate through JoSAA and the IIT system.
 
-Now, for all the IIT aspirants who have clear JEE Advanced, congratulations for clearing JEE Mains and JEE Advanced. These two combined are definitely among the toughest exams in the world, especially, among the tough COVID-19 pandemic times. So, congratulate yourself, give yourself a treat and relax for a bit.
+Now, for all the IIT aspirants who have clear JEE Advanced, congratulations on clearing JEE Mains and JEE Advanced. These two combined are definitely among the toughest exams in the world, especially, among the tough COVID-19 pandemic times. So, congratulate yourself, give yourself a treat and relax for a bit.
 
 Disclaimer: My article is naturally biased towards IIT Madras and its programs. Also, if you want me to cover some more topics, let me know in the comments.
 
@@ -64,11 +64,11 @@ Congratulations on developing something so cool at such an early age! If you hav
 
 ## Different Flavours of each IITs
 Different old IITs have small sub-cultures of their own. These are my opinions based on the countless IITians I have met throughout my time at IIT Madras.
-IIT Madras- Strong research culture, great with consult companies, strong start up culture as well. 
-IIT Bombay- Strong placement culture, great with almost everything, strong start up culture as well.
+IIT Madras- Strong research culture, great with consult companies, strong start-up culture as well. 
+IIT Bombay- Strong placement culture, great with almost everything, strong start-up culture as well.
 IIT Delhi- Strong academics, strong consulting culture.
 IIT Kharagpur and IIT Roorkee- Very strong coding culture
 IIT Kanpur- Good with academics, research.
 
 ## About the author
-A natural question that you might have is who am I to offer my two cents. I’ll try answering it in the best possible capacity. At the time of writing this blog, I am a final year student at IIT Madras in the field of Biotechnology. My JEE Advanced rank was 5345 in 2017. I got a CGPA of 9.1 at the end of my first semester. This was enough for me to branch change into any branch of my choice other than Computer Science and Electrical. However, I chose not to and continue with Biotech as I was keenly interested in understanding the science of l. Later, IIT Madras announced their InterDisciplinary Dual Degree (IDDD) programs in Advanced material science and nanotechnology, Biomedical Engineering, Computational Engineering, Data Science, Energy Systems, Robotics and tech-MBA. Data Science became the most competitive IDDD program because of obvious reasons. I am currently in the IDDD data science program. I am seeking to pursue research in bioinformatics. I am doing my final year project with a professor in the CSE department of IIT Madras.
+A natural question that you might have is who am I to offer my two cents. I’ll try answering it in the best possible capacity. At the time of writing this blog, I am a final year student at IIT Madras in the field of Biotechnology. My JEE Advanced rank was 5345 in 2017. I got a CGPA of 9.1 at the end of my first semester. This was enough for me to branch change into any branch of my choice other than Computer Science and Electrical. However, I chose not to and continue with Biotech as I was keenly interested in understanding the science of l. Later, IIT Madras announced their InterDisciplinary Dual Degree (IDDD) programs in Advanced material science and nanotechnology, Biomedical Engineering, Computational Engineering, Data Science, Energy Systems, Robotics, and tech-MBA. Data Science became the most competitive IDDD program because of obvious reasons. I am currently in the IDDD data science program. I am seeking to pursue research in bioinformatics. I am doing my final year project with a professor in the CSE department of IIT Madras.
