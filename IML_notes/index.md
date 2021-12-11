@@ -9,3 +9,4 @@ background: /assets/img/bulb.jpeg
 
 Here are my Interpretable machine learning notes
  - [Generalized Additive Models](GAM)
+ - [Decision Tree](DecisionTrees)
