@@ -10,6 +10,6 @@ background: 'assets/img/blog.jpg'
 
 Hi! Thats me!
 
-This is my personal blog and note taking website. I post random things that I need to access handy and I am fine with things being public. Hope you enjoy going through this mess. 
+This is my personal blog and note taking website. I post random things that I need handy and I am fine with these things being public. Hope you enjoy going through this mess. 
 
 Happy Journey!
