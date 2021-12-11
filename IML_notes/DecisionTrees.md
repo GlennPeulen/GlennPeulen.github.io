@@ -33,3 +33,18 @@ Tracking decicions throughout the tree and explaining a prediction based on cont
 $$\hat{f}(x) = \bar{y} + \sum^{D}_{d=1} split.contrib(d,x) = \bar{y} + \sum^p_{j=1} feat.contrib(j,x)$$
 
 where D splits exists in a tree and p is the number of features.
+
+### Advantages
+ - Human friendly explanations
+ - Captures interactions
+ - Distinct groups are identified
+ - Natural visualization
+
+### Disadvantages
+ - Fail to deal with linear relationships
+ - Lacks smoothness
+ - Unstable with respect to changes in training datasets
+ - Number of terminal nodes increases quickly with depth
+
+### Software
+`rpart` R package
