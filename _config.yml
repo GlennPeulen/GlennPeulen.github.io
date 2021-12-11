@@ -21,7 +21,7 @@
 title: Glenn's Blog
 author: Glenn Peulen
 email: remnector@gmail.com
-description: "This website is under construction." # this means to ignore newlines until "baseurl:"
+description: "Glenn Peulen's Personal Blog and Notes Website" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://glennpeulen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

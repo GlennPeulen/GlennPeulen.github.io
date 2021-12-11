@@ -4,7 +4,7 @@ title:  "Personal Finance - PF101"
 date:   2021-05-12 12:00:00 +0530
 categories: Personal finance
 permalink: /posts/PF101/
-author: Rem Nector
+author: Mr Ramiah
 subject: post
 background: /assets/img/scheduling-bg.jpeg
 ---

@@ -4,7 +4,7 @@ title:  "Navigating through JoSAA and the IIT system right after JEE Advanced"
 date:   2021-10-15 12:00:00 +0530
 categories: JEE
 permalink: /posts/JoSAA/
-author: Rem Nector
+author: My IIT student
 subject: post
 ---
 

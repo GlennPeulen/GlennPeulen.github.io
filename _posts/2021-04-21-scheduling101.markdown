@@ -4,7 +4,7 @@ title:  "Scheduling Tips and Tricks - And what I learnt from these jugglery"
 date:   2021-04-24 1:58:02 +0530
 categories: Productivity
 permalink: /posts/scheduling-101/
-author: Rem Nector
+author: Somewhere from the web
 subject: post
 background: /assets/img/scheduling-bg.jpeg
 ---
