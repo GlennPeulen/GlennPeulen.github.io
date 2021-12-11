@@ -28,6 +28,8 @@ Template: If feature x is [smaller/bigger] than the threshold c AND ... then the
 Overall importance: Measuring how much Gini Index/variance is minimized in each split where a particular feature was used as compared the parent node. The sum of all importances can be scaled to 100.
 
 **Tree decomposition**
+Tracking decicions throughout the tree and explaining a prediction based on contributions added at each decision nodes.
+
 $$\hat{f}(x) = \bar{y} + \sum^{D}_{d=1} split.contrib(d,x) = \bar{y} + \sum^p_{j=1} feat.contrib(j,x)$$
 
 where D splits exists in a tree and p is the number of features.
