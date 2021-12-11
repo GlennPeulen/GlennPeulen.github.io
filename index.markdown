@@ -5,4 +5,6 @@
 layout: home
 background: 'assets/img/blog.jpg'
 ---
+
+![image](assets/img/Glenn.jpg)
 This is my personal blog site. I am a random college student trying to figure out life.
