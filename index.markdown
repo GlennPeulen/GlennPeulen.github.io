@@ -7,4 +7,9 @@ background: 'assets/img/blog.jpg'
 ---
 
 ![image](assets/img/Glenn.jpg)
-This is my personal blog site. I am a random college student trying to figure out life.
+
+Hi! Thats me!
+
+This is my personal blog and note taking website. I post random things that I need to access handy and I am fine with things being public. Hope you enjoy going through this mess. 
+
+Happy Journey!
