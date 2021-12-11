@@ -52,5 +52,5 @@ where D splits exists in a tree and p is the number of features.
 `rpart` R package
 
 ## RuleFit
-This algorithm was proposed by Friedman and Popescu in 2008. It learns sparse linear models that include automatically detected interaction effects in the form of decision rules.
+This algorithm was proposed by [Friedman and Popescu](https://arxiv.org/abs/0811.1679) in 2008. It learns sparse linear models that include automatically detected interaction effects in the form of decision rules.
 
