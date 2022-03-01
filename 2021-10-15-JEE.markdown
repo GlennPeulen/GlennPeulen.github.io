@@ -3,7 +3,7 @@ layout: post
 title:  "Navigating through JoSAA and the IIT system right after JEE Advanced"
 date:   2021-10-15 12:00:00 +0530
 categories: JEE
-permalink: /posts/JoSAA/
+permalink: /posts/JoSAA1/
 author: Rem Nector
 subject: post
 ---
@@ -35,7 +35,7 @@ My answer to the above question is no. Most of the first-year courses that you e
 
 However, some IITs such as IIT Madras have dual degree programs in cutting edge, industry-relevant programs as I have mentioned earlier. There are several criteria to get in, such as projects, CGPA, or approval from professors. If you think that you can manage to get into these programs, then you should definitely opt for IIT over the program. Nonetheless, you can’t escape the workload of your parent branch. It may reduce but it certainly won’t go away.
 
---- 
+---
 
 ## I don't have any particular preferences. I don’t know much about the branches too. How do I pick which IIT would work for me?
 
@@ -55,7 +55,7 @@ Your placement options are highly dependent on which IIT you are from. For examp
 
 Software development jobs are only dependent on your coding abilities. A lot of the recruitment for soft dev jobs also happens off-campus and therefore, it relies purely on your abilities. To develop such skills and abilities, having less academic pressure and strong coding culture at the IIT is inevitable. Thus, if you are looking for such roles, then IIT KGP & IIT Roorkee have the ideal coding culture. New IITs also have decent coding culture as well. A good marker of which IIT would have strong coding culture would be look at how many students have been selected in Google Summer of Code. (link here)[https://opensource.googleblog.com/2021/06/google-summer-of-code-2021-student-stats.html]
 
-Core domain jobs depend on which branch you belong to, your CGPA, your skills, and expertise, your projects, etc. However, unless you are in CSE, EE, Mechanical, Engineering Design, or Chemical (some Pharma companies), there aren’t many lucrative core options in India’s industrial sector. Oftentimes, non-core companies tend to offer a higher pay scale than the core companies. 
+Core domain jobs depend on which branch you belong to, your CGPA, your skills, and expertise, your projects, etc. However, unless you are in CSE, EE, Mechanical, Engineering Design, or Chemical (some Pharma companies), there aren’t many lucrative core options in India’s industrial sector. Oftentimes, non-core companies tend to offer a higher pay scale than the core companies.
 
 ## I have developed XYZ app in 10th Standard. I love coding. I want CSE and I don't care about the IIT.
 
@@ -63,7 +63,7 @@ Congratulations on developing something so cool at such an early age! If you hav
 
 ## Different Flavours of each IITs
 Different old IITs have small sub-cultures of their own. These are my opinions based on the countless IITians I have met throughout my time at IIT Madras.
-IIT Madras- Strong research culture, great with consult companies, strong start up culture as well. 
+IIT Madras- Strong research culture, great with consult companies, strong start up culture as well.
 IIT Bombay- Strong placement culture, great with almost everything, strong start up culture as well.
 IIT Delhi- Strong academics, strong consulting culture.
 IIT Kharagpur and IIT Roorkee- Very strong coding culture
