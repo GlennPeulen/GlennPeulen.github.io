@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>
+    Decision Tree - Glenn&#39;s Blog
+    
+  </title>
+
+  <meta name="description" content="Glenn Peulen&#39;s Personal Blog and Notes Website">
+  <meta name="google-site-verification" content="ma0diXGfw2dsL_HzD2tGMbW7HlNhaQDKA5xsGa9KY2U" />
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="/assets/vendor/bootstrap/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="/assets/vendor/fontawesome-free/css/all.min.css">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/IML_notes/DecisionTrees.html">
+  <link rel="alternate" type="application/rss+xml" title="Glenn&#39;s Blog" href="/feed.xml">
+
+</head>
+
+
+<body style="background-color:rgba(230, 210, 190,0.5);">
+
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand" href="/">Glenn&#39;s Blog</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/posts">Blog Posts</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/IML_notes">Notes</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/bucket-list">Bucket list</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  <!-- Page Header -->
+
+<header class="masthead" style="background-image: url('/assets/img/DecisionTree.png')">
+  
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>Decision Tree</h1>
+            
+            <span class="meta">Posted by
+              <a href="#">Glenn Peulen</a>
+              on December 12, 2021 &middot; <span class="reading-time" title="Estimated read time">
+  
+   2 mins  read </span>
+
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        <h2 id="classification-and-regression-trees-cart">Classification and Regression Trees (CART)</h2>
+
+<p>Relationship between the outcome and the features is defined as</p>
+
+\[\hat{y} = \hat{f}(x) = \sum^M_{m=1} c_m I\{x \in R_m\}\]
+
+<p>Each instance falls into exactly one leaf node $R_m$. $I_{{ x \in R_m}}$ is the identity function that return 1 if $x$ is in the subset $R_m$. Therefore, when an instance falls into a leaf node $R_l$, the predicted outcocme is $\hat{y} = c_l$, where $c_l$ is the average of all training instances in leaf node $R_l$.</p>
+
+<p>CART relies on finding the best cutoff point that minimizes the variance in the individual nodes after the split. This variance is quantified using Gini Index. In case of categorical features,  the algorithm looks at groupings of categories. Once the best cutoff per features has been determined, the algorithm selects the feature that would result in the best partition in terms of variance of Gini index for splitting. This split is added to the tree.</p>
+
+<p>Possible stop criteria: Minimum number of instances that have to be in a node before the split, or the minimum number of instances that have to be in a terminal node.</p>
+
+<h3 id="interpretation">Interpretation</h3>
+
+<p>Template: If feature x is [smaller/bigger] than the threshold c AND … then the predicted outcome is the mean value of y of the instances in that node.</p>
+
+<p><strong>Feature Importance</strong></p>
+
+<p>Overall importance: Measuring how much Gini Index/variance is minimized in each split where a particular feature was used as compared the parent node. The sum of all importances can be scaled to 100.</p>
+
+<p><strong>Tree decomposition</strong></p>
+
+<p>Tracking decicions throughout the tree and explaining a prediction based on contributions added at each decision nodes.</p>
+
+\[\hat{f}(x) = \bar{y} + \sum^{D}_{d=1} split.contrib(d,x) = \bar{y} + \sum^p_{j=1} feat.contrib(j,x)\]
+
+<p>where D splits exists in a tree and p is the number of features.</p>
+
+<h3 id="advantages">Advantages</h3>
+<ul>
+  <li>Human friendly explanations</li>
+  <li>Captures interactions</li>
+  <li>Distinct groups are identified</li>
+  <li>Natural visualization</li>
+</ul>
+
+<h3 id="disadvantages">Disadvantages</h3>
+<ul>
+  <li>Fail to deal with linear relationships</li>
+  <li>Lacks smoothness</li>
+  <li>Unstable with respect to changes in training datasets</li>
+  <li>Number of terminal nodes increases quickly with depth</li>
+</ul>
+
+<h3 id="software">Software</h3>
+<p><code class="language-plaintext highlighter-rouge">rpart</code> R package</p>
+
+<h2 id="rulefit">RuleFit</h2>
+<p>This algorithm was proposed by <a href="https://arxiv.org/abs/0811.1679">Friedman and Popescu</a> in 2008. It learns sparse linear models that include automatically detected interaction effects in the form of decision rules.</p>
+
+
+
+        <hr>
+
+        <div class="clearfix">
+
+          
+          
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          
+          <li class="list-inline-item">
+            <a href="mailto:remnector@gmail.com">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+          
+          
+          
+          
+          
+        </ul>
+        <p class="copyright text-muted">Copyright &copy; Glenn Peulen 2022</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendor/startbootstrap-clean-blog/js/clean-blog.min.js"></script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+  }
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<script src="/assets/scripts.js"></script>
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+
+</body>
+
+</html>

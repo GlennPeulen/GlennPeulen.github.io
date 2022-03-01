@@ -1,67 +1,178 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-24T20:15:27+05:30</updated><id>/feed.xml</id><title type="html">Rem’s Blog</title><subtitle>This website is under construction.</subtitle><entry><title type="html">Scheduling Tips and Tricks - And what I learnt from these jugglery</title><link href="/posts/scheduling-101/" rel="alternate" type="text/html" title="Scheduling Tips and Tricks - And what I learnt from these jugglery" /><published>2021-04-24T01:58:02+05:30</published><updated>2021-04-24T01:58:02+05:30</updated><id>/posts/scheduling101</id><content type="html" xml:base="/posts/scheduling-101/">&lt;h1 id=&quot;scheduling-for-dummies&quot;&gt;Scheduling for Dummies&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/img/scheduling-minimalist-oversheduler.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-02T03:26:19+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Glenn’s Blog</title><subtitle>Glenn Peulen's Personal Blog and Notes Website</subtitle><author><name>Glenn Peulen</name></author><entry><title type="html">Century - My resolution to write for next 100 days</title><link href="http://localhost:4000/writingresolution/2021/12/12/day2-what-did-I-do.html" rel="alternate" type="text/html" title="Century - My resolution to write for next 100 days" /><published>2021-12-12T23:00:00+05:30</published><updated>2021-12-12T23:00:00+05:30</updated><id>http://localhost:4000/writingresolution/2021/12/12/day2-what-did-I-do</id><content type="html" xml:base="http://localhost:4000/writingresolution/2021/12/12/day2-what-did-I-do.html"><![CDATA[<p>Next day’s blog.</p>]]></content><author><name>Glenn Peulen</name></author><category term="WritingResolution" /><summary type="html"><![CDATA[Next day’s blog.]]></summary></entry><entry><title type="html">Century - My resolution to write for next 100 days</title><link href="http://localhost:4000/writingresolution/2021/12/11/day1-writing-task.html" rel="alternate" type="text/html" title="Century - My resolution to write for next 100 days" /><published>2021-12-11T12:00:00+05:30</published><updated>2021-12-11T12:00:00+05:30</updated><id>http://localhost:4000/writingresolution/2021/12/11/day1-writing-task</id><content type="html" xml:base="http://localhost:4000/writingresolution/2021/12/11/day1-writing-task.html"><![CDATA[<p>Today is my first day of writing. I will write at least 500 words for the next 100 days. I am sure I will be able to achieve this goal. A major aim of this exercise is to get into a habit of writing and potentially improve it further, while also having fun and just churning out some interesting pieces. In this way, I also get an opportunity to document some snapshots of my life.</p>
 
-&lt;p&gt;Other existing productivity methods:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;David Allen’s Getting things done&lt;/li&gt;
-  &lt;li&gt;Productivity tools&lt;/li&gt;
-  &lt;li&gt;Power of Checklist - Checklist Manifesto (Dr. Arjun Gawande)&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<p>Today, Koala messaged me asking if I got an email from GT’s program. Initially, I went in a defensive mode, asserting the fact that both of us are applying to different programs. She said that the program committee wants to have an “informal chat” with her. Following this, her replies included justifications for her actions and that she was only planning to prepare for the interviews. My response later was kind. I congratulated and wished her good luck for whatever followed. I also messaged chu and tried justifying my actions. He felt too important and I acted like a fuckin simp. I should have taken a stand. Maybe it’s fine, I am just being kind to people. KN proposed that we meet at the citadel on nine tails adding to the ten teeth. Most of the replies were negative. Let’s see what follows.</p>
 
-&lt;h2 id=&quot;objectives&quot;&gt;Objectives&lt;/h2&gt;
+<p>On the academic front, I am learning IML. I covered linear models and will probably be done with decision trees. I think I feel a bit more confident after looking at GAM. Maybe I can model the gene expression data and make some interesting clean methods for single-cell. Woah, I am thinking everything in the light of single-cell datasets lol. Okay, I need to stay away from social media lingo.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Knowing what you are meant to be doing and when&lt;/li&gt;
-  &lt;li&gt;Create a sense of purpose, meaning and focus in your life&lt;/li&gt;
-  &lt;li&gt;Systemically ensure that you avoid procastination, stay motivated and manage your time well&lt;/li&gt;
-&lt;/ul&gt;
+<blockquote>
+  <p><code class="language-plaintext highlighter-rouge">One man's thrash is other man's treasure</code></p>
+</blockquote>
 
-&lt;h2 id=&quot;method&quot;&gt;Method&lt;/h2&gt;
-&lt;p&gt;Solution: Follow a daily Schedule template&lt;/p&gt;
+<p>I am thinking of including the latex plugin here too. I can bang out equations here and save it handy. I can even use this website as my personal notes storage space for free! No one really care if the website is listed. Anyways, most of the website out there are thrash. It would be an online treasure for me, with almost complete annonymity. Now I see why Prof. bhondoo created his anonymous blog.</p>
 
-&lt;h3 id=&quot;breif-overview-of-the-method&quot;&gt;Breif Overview of the method&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Start your day with the most important work.&lt;/li&gt;
-  &lt;li&gt;Map out your perfect daily schedule according to your personal productivity curve.&lt;/li&gt;
-  &lt;li&gt;Use time blocking to switch from being reactive to be in control of your time.&lt;/li&gt;
-  &lt;li&gt;Set availability to minimum.&lt;/li&gt;
-  &lt;li&gt;Follow your flow of tasks and energy.&lt;/li&gt;
-  &lt;li&gt;Perform Regular Calender audits and check out your past data.&lt;/li&gt;
-&lt;/ol&gt;
+\[\bar{x} = \frac{\sum(x_i)}{n}\]
 
-&lt;h4 id=&quot;1-starting-your-day-with-the-most-important-work&quot;&gt;1. Starting your day with the most important work&lt;/h4&gt;
-&lt;p&gt;The main idea is to set your own work rather than triggers, emotional distractions and stress govern your day. Avoid looking at Email, twitter, whatsapp, etc. to avoid these triggers.&lt;/p&gt;
+<p>If by mistake, you happen to read this blog, do email and let me know! I would love to know my dedicated fan club. Till then, stick around and never stop learning!</p>]]></content><author><name>Glenn Peulen</name></author><category term="WritingResolution" /><summary type="html"><![CDATA[Today is my first day of writing. I will write at least 500 words for the next 100 days. I am sure I will be able to achieve this goal. A major aim of this exercise is to get into a habit of writing and potentially improve it further, while also having fun and just churning out some interesting pieces. In this way, I also get an opportunity to document some snapshots of my life.]]></summary></entry><entry><title type="html">Navigating through JoSAA and the IIT system right after JEE Advanced</title><link href="http://localhost:4000/posts/JoSAA/" rel="alternate" type="text/html" title="Navigating through JoSAA and the IIT system right after JEE Advanced" /><published>2021-10-15T12:00:00+05:30</published><updated>2021-10-15T12:00:00+05:30</updated><id>http://localhost:4000/posts/JEE</id><content type="html" xml:base="http://localhost:4000/posts/JoSAA/"><![CDATA[<h1 id="navigating-through-josaa-and-the-iit-system-right-after-jee-advanced">Navigating through JoSAA and the IIT system right after JEE Advanced</h1>
 
-&lt;h4 id=&quot;2-map-out-your-perfect-daily-schedule-according-to-your-personal-productivity-curve&quot;&gt;2. Map out your perfect daily schedule according to your personal productivity curve&lt;/h4&gt;
-&lt;p&gt;ABC&lt;/p&gt;
+<p>As the JEE season has come to an end, we IITians are flooded with messages from friends and family from people seeking advice. Most of the content of the advice is quite similar and therefore, I was advised to write a blog to put out all the general content a person would need to navigate through JoSAA and the IIT system.</p>
 
-&lt;h4 id=&quot;3-time-blocking-method&quot;&gt;3. Time Blocking method&lt;/h4&gt;
-&lt;p&gt;DEF&lt;/p&gt;
+<p>Now, for all the IIT aspirants who have clear JEE Advanced, congratulations on clearing JEE Mains and JEE Advanced. These two combined are definitely among the toughest exams in the world, especially, among the tough COVID-19 pandemic times. So, congratulate yourself, give yourself a treat and relax for a bit.</p>
 
-&lt;h4 id=&quot;4-minimal-availability&quot;&gt;4. Minimal availability&lt;/h4&gt;
-&lt;p&gt;GHI&lt;/p&gt;
+<p>Disclaimer: My article is naturally biased towards IIT Madras and its programs. Also, if you want me to cover some more topics, let me know in the comments.</p>
 
-&lt;h4 id=&quot;5-maintain-your-flow-of-task-and-energy&quot;&gt;5. Maintain your flow of task and energy&lt;/h4&gt;
-&lt;p&gt;JKL&lt;/p&gt;
+<h3 id="resources-that-i-used">Resources that I used</h3>
+<p>Back in 2017, when I had appeared for JEE Advanced, there were not a lot of resources to make a proper decision. I was connected to only one IITian a family friend. He had graduated from IIT KGP long back in 2008 and has been in US since then. I come from a business family. Everyone that I know around me has been doing business and hasn’t really ventured into corporate India. I had no clue on which branch to select or which IIT to select except for maybe the top 5 IITs. Thus, I needed some serious mentoring to make a good decision about my future. I am listing the resources that helped me in making my decision.</p>
 
-&lt;h4 id=&quot;6-regular-calender-audits-and-checking-past-data&quot;&gt;6. Regular Calender audits and checking past data&lt;/h4&gt;
-&lt;p&gt;MNO&lt;/p&gt;</content><author><name>Rem Nector</name></author><category term="Productivity" /><summary type="html">Scheduling for Dummies</summary></entry><entry><title type="html">Test Post (Yeah, I use Jekyll)</title><link href="/posts/blog-test/" rel="alternate" type="text/html" title="Test Post (Yeah, I use Jekyll)" /><published>2021-04-20T15:58:02+05:30</published><updated>2021-04-20T15:58:02+05:30</updated><id>/posts/welcome-to-jekyll</id><content type="html" xml:base="/posts/blog-test/">&lt;p&gt;Like, Share and Subscribe Jekyll for making our lives easier.&lt;/p&gt;
+<ul>
+  <li>JEE Counselling guide by Prof Dheeraj Sanghi written in 2015 - <a href="https://dsanghi.blogspot.com/2015/06/a-guide-to-jee-counseling-2015.html">link here</a></li>
+  <li>Industries of the Future by Alec Ross written in 2016 - <a href="https://www.amazon.in/Industries-Future-Alec-Ross/dp/1476753660">link here</a></li>
+</ul>
 
-&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<p>Now, as you select your branch, you need to think if whatever you are planning to pursue will be relevant to the world 5–10 years from now. Anticipating the future is an extremely difficult task. However, it is not entirely impossible. This is where reading the second book would help. According to Alec Ross, these five industries are going to make it big, rather they are making it big.</p>
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+<ul>
+  <li>Robotics (including drones)</li>
+  <li>Advanced Life Sciences</li>
+  <li>Cryptocurrency</li>
+  <li>Cybersecurity</li>
+  <li>Big Data</li>
+</ul>
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+<h2 id="should-i-select-iit-over-a-branch-that-i-really-love-hoping-for-a-branch-change">Should I select IIT over a branch that I really love hoping for a branch change?</h2>
+<p>My answer to the above question is no. Most of the first-year courses that you end up taking in your first year are largely taken by everyone irrespective of the branch. Most IITs also follow a relative grading system. Therefore, you will be competing with all the students at the IIT irrespective of their branch for grades. You would have been at odds at the JEE exams, however, beating the odds in IIT classrooms in your first year is quite difficult. The competition is cutthroat. It only starts to cool down after the branch change season gets over. In a nutshell, don’t pin your hopes on branch change. You are unlikely to beat the odds at IITs. Everyone who comes there is hoping for one.</p>
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+<p>However, some IITs such as IIT Madras have dual degree programs in cutting edge, industry-relevant programs as I have mentioned earlier. There are several criteria to get in, such as projects, CGPA, or approval from professors. If you think that you can manage to get into these programs, then you should definitely opt for IIT over the program. Nonetheless, you can’t escape the workload of your parent branch. It may reduce but it certainly won’t go away.</p>
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+<hr />
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<h2 id="i-dont-have-any-particular-preferences-i-dont-know-much-about-the-branches-too-how-do-i-pick-which-iit-would-work-for-me">I don’t have any particular preferences. I don’t know much about the branches too. How do I pick which IIT would work for me?</h2>
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Rem Nector</name></author><category term="jekyll" /><category term="update" /><summary type="html">Like, Share and Subscribe Jekyll for making our lives easier.</summary></entry><entry><title type="html">COVID rant</title><link href="/idea/i1/" rel="alternate" type="text/html" title="COVID rant" /><published>2020-01-20T16:12:02+05:30</published><updated>2020-01-20T16:12:02+05:30</updated><id>/idea/idea1</id><content type="html" xml:base="/idea/i1/">&lt;p&gt;A positive idea&lt;/p&gt;</content><author><name>Agonized aunty</name></author><category term="COVIDtales" /><summary type="html">A positive idea</summary></entry></feed>
+<p>I’ll answer this question by breaking it into different options that people take in-around their final year and later on in their life. If you do not have any particular preferences, then purely going by payscale is not a good idea. The first salaries are not the best way to judge a person’s success. IITs offer you a lot of different opportunities to achieve success. Let me just outline some of them.</p>
+
+<p><strong>Startups:</strong> Let me just cite one recent example of Aether Energy that is transforming the two-wheeler electric vehicle scenario of Bangalore and Chennai. Its founders are the alumni of -Engineering Design Department of IIT Madras. Similarly, there are so many others like UrbanMatrix, Sea6Energy, ePlane, Solinas, and HyperVerge to name a few. These start-ups are transforming India with their cutting-edge technology. These are not merely companies that just make apps, these companies are solving real-world problems efficiently and effectively. IITians are not merely job-seekers, they are opportunity creators. This is definitely an important outcome that you should be looking at rather than only the placements statistics.</p>
+
+<p>There are several IITs (mostly old ones), such as IIT Bombay and IIT Madras which foster and celebrate the start-up ecosystem. If you think, that you want to explore the start-up space, transform our beautiful country and benefit humanity, you should definitely look for IITs that have a healthy start-up ecosystem. Some compromise on the branch is fine in this case. The founders of the start-ups that I mentioned are from departments such as Engineering Design, Mechanical Engineering, Biotechnology, Chemical Engineering, and Metallurgical and Material Science Engineering. Just to give you one contrasting example, the founder of the ePlane company is from the Metallurgy department, and he has teamed up with a Professor from the Aerospace department.</p>
+
+<p><strong>Research:</strong> IITs are by far among the best research institutes in India. Most IITs have world-class facilities. With the distinction between the domains becoming less and less relevant and interdisciplinary research on rising, in my opinion, it is important that you should select an IIT that fosters interdisciplinary research. Your research profile is highly dependent on the quality of research projects that you pursue. To my knowledge, old IITs are the safest. IIT Hyderabad, IIT Gandhinagar, IIT Mandi are also good options. I would advise against very new IITs. They sometimes face a chronic faculty crunch. Profs from old IITs visit the new IITs to teach some courses. Naturally, your research options are limited and you might not be able to develop a good research profile.</p>
+
+<p>If you are not 100% sure about research, then IITs are definitely better options than IISERs. IISERs offer you great research opportunities, however, they only offer research opportunities. IITs on the other hand, offer a lot of flexibility. If you don’t find yourself interested in research, then you can switch to other options. Such options are not available at IISERs. The only option you are left with is MBA.</p>
+
+<p><strong>Placements:</strong> This is probably the most awaited part of the article. There are several placement options. Some of them are management consulting, fintech, data analytics, software development, and the core domain jobs.</p>
+
+<p>Your placement options are highly dependent on which IIT you are from. For example, management consulting companies are considered to be among the most lucrative options. Companies such as Boston Consulting Group, McKinsey, and Bain only recruit from IIT Bombay, Delhi, and Madras for on-campus recruitments. These companies do offer off-campus applications from IIT Kanpur, KGP, Roorkee, and Guwahati too. But that’s it! I haven’t heard of these companies recruiting from other IITs. These companies recruit mainly based on your profile at the IIT. Your branch does not matter. Data analytics and fintech roles are also dependent on which IIT you come from. This is because a lot of analytics companies and banks mainly prefer to come to the old IITs.</p>
+
+<p>Software development jobs are only dependent on your coding abilities. A lot of the recruitment for soft dev jobs also happens off-campus and therefore, it relies purely on your abilities. To develop such skills and abilities, having less academic pressure and strong coding culture at the IIT is inevitable. Thus, if you are looking for such roles, then IIT KGP &amp; IIT Roorkee have the ideal coding culture. New IITs also have decent coding culture as well. A good marker of which IIT would have strong coding culture would be look at how many students have been selected in Google Summer of Code. 
+<a href="https://opensource.googleblog.com/2021/06/google-summer-of-code-2021-student-stats.html">link here</a></p>
+
+<p>Core domain jobs depend on which branch you belong to, your CGPA, your skills, and expertise, your projects, etc. However, unless you are in CSE, EE, Mechanical, Engineering Design, or Chemical (some Pharma companies), there aren’t many lucrative core options in India’s industrial sector. Oftentimes, non-core companies tend to offer a higher pay scale than the core companies.</p>
+
+<h2 id="i-have-developed-xyz-app-in-10th-standard-i-love-coding-i-want-cse-and-i-dont-care-about-the-iit">I have developed XYZ app in 10th Standard. I love coding. I want CSE and I don’t care about the IIT.</h2>
+
+<p>Congratulations on developing something so cool at such an early age! If you have a natural aptitude for coding then you should definitely pursue it. However, don’t go too low for the branch. Your college education should be good enough to challenge you at each step. Otherwise, you will get bored. If you are choosing IIIT Hyderabad over IITs then it makes sense. However, choosing private colleges over IITs only for CSE does not really make sense. You are rather better off taking an easy branch at an IIT that has a strong coding culture. At IITs, you will likely have access to a better pool of companies that come for recruitments. Moreover, if you stumble across an interesting startup idea, you can pursue it at IITs that have a good startup culture. Additionally, you will also have access to the CSE professors of these IITs. You can also take their courses are free electives and even graduate with a minor in computer science or artificial intelligence.</p>
+
+<h2 id="different-flavours-of-each-iits">Different Flavours of each IITs</h2>
+<p>Different old IITs have small sub-cultures of their own. These are my opinions based on the countless IITians I have met throughout my time at IIT Madras.
+IIT Madras- Strong research culture, great with consult companies, strong start-up culture as well. 
+IIT Bombay- Strong placement culture, great with almost everything, strong start-up culture as well.
+IIT Delhi- Strong academics, strong consulting culture.
+IIT Kharagpur and IIT Roorkee- Very strong coding culture
+IIT Kanpur- Good with academics, research.</p>
+
+<h2 id="about-the-author">About the author</h2>
+<p>A natural question that you might have is who am I to offer my two cents. I’ll try answering it in the best possible capacity. At the time of writing this blog, I am a final year student at IIT Madras in the field of Biotechnology. My JEE Advanced rank was 5345 in 2017. I got a CGPA of 9.1 at the end of my first semester. This was enough for me to branch change into any branch of my choice other than Computer Science and Electrical. However, I chose not to and continue with Biotech as I was keenly interested in understanding the science of l. Later, IIT Madras announced their InterDisciplinary Dual Degree (IDDD) programs in Advanced material science and nanotechnology, Biomedical Engineering, Computational Engineering, Data Science, Energy Systems, Robotics, and tech-MBA. Data Science became the most competitive IDDD program because of obvious reasons. I am currently in the IDDD data science program. I am seeking to pursue research in bioinformatics. I am doing my final year project with a professor in the CSE department of IIT Madras.</p>]]></content><author><name>My IIT student</name></author><category term="JEE" /><summary type="html"><![CDATA[Navigating through JoSAA and the IIT system right after JEE Advanced]]></summary></entry><entry><title type="html">Personal Finance - PF101</title><link href="http://localhost:4000/posts/PF101/" rel="alternate" type="text/html" title="Personal Finance - PF101" /><published>2021-05-12T12:00:00+05:30</published><updated>2021-05-12T12:00:00+05:30</updated><id>http://localhost:4000/posts/investment</id><content type="html" xml:base="http://localhost:4000/posts/PF101/"><![CDATA[<h1 id="personal-finance-101-notes">Personal Finance 101 Notes</h1>
+<ul>
+  <li>Active Income: You get the money for spending your time.</li>
+  <li>Passive Income: You get the money for lending your savings for a period of time.</li>
+</ul>
+
+<h2 id="key-equation">Key Equation</h2>
+<p>Income (100%) - Investments(30-40%) - Savings(20-30%) = Expenses(30-50%)</p>
+
+<h2 id="assets-and-liabilities">Assets and Liabilities</h2>
+<ul>
+  <li>Keep your liabilities as low as possible</li>
+  <li>Keep your assets as high as possible</li>
+</ul>
+
+<h3 id="assets">Assets</h3>
+<ul>
+  <li>Real Estate - high value - low risk</li>
+  <li>Gold - high value - high risk</li>
+  <li>Digital Gold - high value - high risk</li>
+  <li>On-paper Assets</li>
+</ul>
+
+<h3 id="on-paper-assets">On-paper Assets</h3>
+<ul>
+  <li>Systematic Investment Plans</li>
+  <li>Government Bonds</li>
+  <li>Fixed Deposits</li>
+  <li>Bank bonds</li>
+  <li>Shares/Stocks</li>
+</ul>]]></content><author><name>Mr Ramiah</name></author><category term="Personal" /><category term="finance" /><summary type="html"><![CDATA[Personal Finance 101 Notes Active Income: You get the money for spending your time. Passive Income: You get the money for lending your savings for a period of time.]]></summary></entry><entry><title type="html">Scheduling Tips and Tricks - And what I learnt from these jugglery</title><link href="http://localhost:4000/posts/scheduling-101/" rel="alternate" type="text/html" title="Scheduling Tips and Tricks - And what I learnt from these jugglery" /><published>2021-04-24T01:58:02+05:30</published><updated>2021-04-24T01:58:02+05:30</updated><id>http://localhost:4000/posts/scheduling101</id><content type="html" xml:base="http://localhost:4000/posts/scheduling-101/"><![CDATA[<h1 id="scheduling-for-dummies">Scheduling for Dummies</h1>
+<p><img src="/assets/img/scheduling-minimalist-oversheduler.png" alt="image" /></p>
+
+<p>Other existing productivity methods:</p>
+<ul>
+  <li>David Allen’s Getting things done</li>
+  <li>Productivity tools</li>
+  <li>Power of Checklist - Checklist Manifesto (Dr. Arjun Gawande)</li>
+  <li></li>
+</ul>
+
+<h2 id="objectives">Objectives</h2>
+
+<ul>
+  <li>Knowing what you are meant to be doing and when</li>
+  <li>Create a sense of purpose, meaning and focus in your life</li>
+  <li>Systemically ensure that you avoid procastination, stay motivated and manage your time well</li>
+</ul>
+
+<h2 id="method">Method</h2>
+<p>Solution: Follow a daily Schedule template</p>
+
+<h3 id="breif-overview-of-the-method">Breif Overview of the method</h3>
+<ol>
+  <li>Start your day with the most important work.</li>
+  <li>Map out your perfect daily schedule according to your personal productivity curve.</li>
+  <li>Use time blocking to switch from being reactive to be in control of your time.</li>
+  <li>Set availability to minimum.</li>
+  <li>Follow your flow of tasks and energy.</li>
+  <li>Perform Regular Calender audits and check out your past data.</li>
+</ol>
+
+<h4 id="1-starting-your-day-with-the-most-important-work">1. Starting your day with the most important work</h4>
+<p>The main idea is to set your own work rather than triggers, emotional distractions and stress govern your day. Avoid looking at Email, twitter, whatsapp, etc. to avoid these triggers.</p>
+
+<h4 id="2-map-out-your-perfect-daily-schedule-according-to-your-personal-productivity-curve">2. Map out your perfect daily schedule according to your personal productivity curve</h4>
+<p>ABC</p>
+
+<h4 id="3-time-blocking-method">3. Time Blocking method</h4>
+<p>DEF</p>
+
+<h4 id="4-minimal-availability">4. Minimal availability</h4>
+<p>GHI</p>
+
+<h4 id="5-maintain-your-flow-of-task-and-energy">5. Maintain your flow of task and energy</h4>
+<p>JKL</p>
+
+<h4 id="6-regular-calender-audits-and-checking-past-data">6. Regular Calender audits and checking past data</h4>
+<p>MNO</p>]]></content><author><name>Somewhere from the web</name></author><category term="Productivity" /><summary type="html"><![CDATA[Scheduling for Dummies]]></summary></entry><entry><title type="html">Test Post (Yeah, I use Jekyll)</title><link href="http://localhost:4000/posts/blog-test/" rel="alternate" type="text/html" title="Test Post (Yeah, I use Jekyll)" /><published>2021-04-20T15:58:02+05:30</published><updated>2021-04-20T15:58:02+05:30</updated><id>http://localhost:4000/posts/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/posts/blog-test/"><![CDATA[<p>Like, Share and Subscribe Jekyll for making our lives easier.</p>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Glenn Peulen</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Like, Share and Subscribe Jekyll for making our lives easier.]]></summary></entry></feed>
