@@ -8,4 +8,5 @@ subject: post, century
 background: /assets/img/pen.jpeg
 ---
 
-Next day's blog.
+ - Atari Games
+ - Reinforcement learning used for learning Atari games and countering these methods.
