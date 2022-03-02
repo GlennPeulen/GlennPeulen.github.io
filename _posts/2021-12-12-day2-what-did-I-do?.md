@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Century - My resolution to write for next 100 days"
-date:   2022-3-2 11:00:00 +0530
+date:   2022-2-2 11:00:00 +0530
 categories: WritingResolution
 author: Glenn Peulen
 subject: post, century
