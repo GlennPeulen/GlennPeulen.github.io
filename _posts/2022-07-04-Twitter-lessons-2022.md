@@ -32,4 +32,22 @@ background: /assets/img/pen.jpeg
  - **The Advice Paradox** 
  Taking more advice leaves you less well-equipped. It's well-intentioned, but it's dangerous to use someone else's map of reality to navigate yours. Winners learn to filter and selectively implement advice - take the signal, skip the noise. 
  - **Intellectual Sparring Partners**
-
+ Most of us need fewer friends and more intellectual sparring partners. Friends are easy to come by - intellectual sparring partners are harder to find. They are willing to call you on your BS, questions your assumptions, and push you to think deeply.
+ - **The Regret Razor**
+ When choosing how to spend your time, choose to spend it on time you never regret. A few things I never regret: 
+  - Creative sprint
+  - Talking to smart friends
+  - Calling my parents
+  - Tech-free walks
+  - Exercising
+  Make your list - then spend more time on it!
+ - **Identity Capital**
+ Identity capital is the base of experiences and traits that make us unique. When you are young, seek to build identity capital - pursue interesting experiences as much as you can. As you grow, leverage your identity capital to accelerate your career and life. 
+ - **Question-Action Matrix**
+ Asking great questions uncovers the truth - bias for action builds upon it. The four quadrants:
+  - Q1: World-changers (rare!)
+  - Q2: Grinders/hustlers
+  - Q3: Philosophers/thinkers
+  - Q4: Dead Zone
+ Invest behind Q1s, hire more Q2s, spend time with Q3s, and avoid Q4s.
+ - 
