@@ -94,8 +94,7 @@ background: /assets/img/pen.jpeg
 
  18. **Build vs Sell**
  To be successful, you either need to learn how to build or you need to learn how to sell. If you aren't technically-gifted, that's ok - just learn to sell. If you can sell, you'll always make it. 
-
- People who know how to build AND sell are unbeatable.
+  People who know how to build AND sell are unbeatable.
 
  19. **The Feynman Technique**
   - Step 1: Identify a topic
