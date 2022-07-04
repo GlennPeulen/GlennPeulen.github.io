@@ -6,7 +6,8 @@ background: '/assets/img/bucket-list.jpeg'
 ---
 
 ### Career and Passion
-- --- Complete your undergrad degree ---
+- ---Complete your undergrad degree---
+- ~~Complete your undergrad degree~~ 
 - Get a Doctoral Degree
 - Build your own package
 - Get h-index of 10 before 27
