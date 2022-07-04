@@ -6,9 +6,9 @@ layout: home
 background: 'assets/img/blog.jpg'
 ---
 
-![image](assets/img/Glenn2.jpg)
-{% imagesize image:width %}
 
+{% imagesize image:img %}
+<img src='assets/img/Glenn2.jpg' width='350' height='350'>
 
 
 Hi! Thats me!
