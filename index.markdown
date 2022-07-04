@@ -8,10 +8,7 @@ background: 'assets/img/blog.jpg'
 
 ![image](assets/img/Glenn2.jpg)
 {% imagesize image:width %}
-350
 
-{% imagesize image:img %}
-<img src='assets/img/Glenn2.jpg' width='350' height='350'>
 
 
 Hi! Thats me!
