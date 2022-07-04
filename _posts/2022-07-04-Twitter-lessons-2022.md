@@ -80,9 +80,8 @@ background: /assets/img/pen.jpeg
  
  15. **The Writing Knife Block**
  Writing is the ultimate tool to sharpen thinking. When you write, you expose the gaps that exist in your logic and thinking. 
-
- Use writing as a "knife block":
- When you think you understand something, write it out and put your understanding to the test.
+  Use writing as a "knife block":
+  When you think you understand something, write it out and put your understanding to the test.
  
  16. **30-for-30 Plan**
  If you want to improve at anything, follow this simple approach: 
