@@ -6,8 +6,6 @@ layout: home
 background: 'assets/img/blog.jpg'
 ---
 
-![image](assets/img/Glenn2.jpg)
-
 <img src='assets/img/Glenn2.jpg' width='350' height='350'>
 
 
